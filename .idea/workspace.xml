@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18616863-1828-4968-b3a8-c028ad2ca85e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ansible/hosts.ini" afterPath="$PROJECT_DIR$/ansible/hosts.ini" />
-      <change beforePath="$PROJECT_DIR$/ansible/playbook.yml" afterPath="$PROJECT_DIR$/ansible/playbook.yml" />
       <change beforePath="$PROJECT_DIR$/app/config/config_prod.yml" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,8 +106,8 @@
       <file leaf-file-name="config_prod.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="108">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -274,12 +271,12 @@
       <updated>1519302636179</updated>
       <workItem from="1519302637691" duration="3320000" />
       <workItem from="1519309987280" duration="12210000" />
-      <workItem from="1519378265720" duration="1869000" />
+      <workItem from="1519378265720" duration="2160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17399000" />
+    <option name="totallyTimeSpent" value="17690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1144" y="-4" width="1857" height="1205" extended-state="6" />
@@ -515,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="108">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
