@@ -19,3 +19,5 @@
 /.vagrant/
 /node_modules/
 /web/build
+
+*.retry
